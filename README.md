@@ -51,3 +51,5 @@ Modifications of Chat Patches and Symbol Chat improve the chat functionality, an
 
 - Versions below the newest will be marked as "Alpha".
 - Delicious updates are planned in the future.
+
+![The ability to add servers to favorites](https://cdn.modrinth.com/data/cached_images/7b78928d7d3c9654665c22b22aae4bcbcb5e3262.gif) ![The ability to add multiple languages.](https://cdn.modrinth.com/data/cached_images/f4700931fa45dc6e7e08f555596f8d5309e5bf3f.gif) ![Beautiful resource packs interface and built-in library for installation.](https://cdn.modrinth.com/data/cached_images/0598858e60b6aa6efff78f763b7bd0ec10e07cf6.gif) ![The ability to make "hotkeys" and search for the necessary settings. You will also receive a keyboard with a demonstration of your settings.](https://cdn.modrinth.com/data/cached_images/e20572639d3cf539dfcd78191ff7e6bdd36ac99b.gif)
