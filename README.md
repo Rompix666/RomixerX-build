@@ -1,9 +1,20 @@
-# **Welcome to RomixerX Modpack!** 🎮
+<div align="center">
 
-[![Discord](https://img.shields.io/discord/972218989235298385?color=5865F2&label=Discord&logo=discord&logoColor=red)](https://discord.com/invite/PNp3S3sanv)   [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UC8sUlbuYBikh4AdKPKYbj2A?label=YouTube&logo=youtube&logoColor=red)](https://www.youtube.com/channel/UC8sUlbuYBikh4AdKPKYbj2A)   [![Website](https://img.shields.io/badge/romixerx.ru-online-111111?logo=https%3A%2F%2Fcdn.easydonate.ru%2Fimages%2Flogos%2F65%2F6c%2F656c02192817411e526df199f7016d5efa0a7846692948e9ae2a80f2036e31f1.png&logoColor=white)](https://romixerx.ru)   [![Telegram](https://img.shields.io/badge/Telegram-@RomixerX-26A5E4?logo=telegram&logoColor=red)](https://t.me/RomixerX)   [![Wiki](https://img.shields.io/badge/Wiki-romixerx.ru-8B0000?logo=bookstack&logoColor=red)](https://romixerx.ru/build)   [![Report](https://img.shields.io/badge/Report-Support-111111?logo=bugcrowd&logoColor=red)](https://t.me/romixsupport_bot)
+# **✧ RomixerX Modpack ✧**
 
 ---
 
+### [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UC8sUlbuYBikh4AdKPKYbj2A?label=YouTube&logo=youtube&logoColor=red)](https://www.youtube.com/channel/UC8sUlbuYBikh4AdKPKYbj2A)   [![Website](https://img.shields.io/badge/romixerx.ru-online-111111?logo=https%3A%2F%2Fcdn.easydonate.ru%2Fimages%2Flogos%2F65%2F6c%2F656c02192817411e526df199f7016d5efa0a7846692948e9ae2a80f2036e31f1.png&logoColor=white)](https://romixerx.ru)   [![Telegram](https://img.shields.io/badge/Telegram-@RomixerX-26A5E4?logo=telegram&logoColor=red)](https://t.me/RomixerX)   [![Wiki](https://img.shields.io/badge/Wiki-romixerx.ru-8B0000?logo=bookstack&logoColor=red)](https://romixerx.ru/build)  
+
+### [![GitHub Issues](https://img.shields.io/github/issues/rompix666/RomixerX-build?label=Issues&logo=github)](https://github.com/rompix666/RomixerX-build/issues) [![Discord](https://img.shields.io/discord/972218989235298385?color=5865F2&label=Discord&logo=discord&logoColor=red)](https://discord.com/invite/PNp3S3sanv)
+
+</div>
+
+***
+
+![Replace this with a description](https://cdn.modrinth.com/data/cached_images/c032dd9a2c4060dcebf1f97c4ffbdb626e396365.png)
+
+---
 ## 🚀 **Launcher**
 
 <details>
@@ -22,19 +33,17 @@
 
 ## 📽️ **Video Preview**
 
-<details>
-<summary>🎬 Watch videos</summary>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ev53_IE5GxQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-> ✨ *Coming soon... Stay tuned!*
-
-</details>
 
 ---
 
 ## 🌍 **About the Modpack**
 
 ### 🇷🇺 **Русский**
-Эта сборка содержит **70–90 модификаций** и **4–7 ресурспаков**, которые значительно расширяют игровой опыт. Создана специально для сервера **RomixerX** и включает функции для удобного управления и сокрытия конфиденциальной информации.
+Эта сборка содержит **70–100 модификаций** и **4–20 ресурспаков**, которые значительно расширяют игровой опыт. Создана специально для сервера **RomixerX** и включает функции для удобного управления и сокрытия конфиденциальной информации.
+
+<div align="center">
 
 | Категория | Особенности |
 |:---------:|:-----------:|
@@ -46,13 +55,17 @@
 | 🧭 **Навигация** | Мини-карта, подсказки о блоках |
 | 🎒 **Инвентарь** | Облегчённое управление инвентарем |
 
+</div>
+
 > ⚠️ *Версии ниже новейшей помечаются как **Alpha**.*  
 > 🍰 *В будущем планируются вкусные обновления!*
 
 ---
 
 ### 🇺🇸 **English**
-This modpack includes **70–90 mods** and **4–7 resource packs**, greatly enhancing your Minecraft experience. Built specifically for the **RomixerX** server, it also offers tools for managing and hiding sensitive information.
+This modpack includes **70–100 mods** and **4–20 resource packs**, greatly enhancing your Minecraft experience. Built specifically for the **RomixerX** server, it also offers tools for managing and hiding sensitive information.
+
+<div align="center">
 
 | Category | Features |
 |:--------:|:--------:|
@@ -63,6 +76,8 @@ This modpack includes **70–90 mods** and **4–7 resource packs**, greatly enh
 | 💬 **Chat** | ChatPatches, SymbolChat, VoiceMessages |
 | 🧭 **Navigation** | Mini-map, hints about the blocks |
 | 🎒 **Inventory** | Simplified inventory management |
+
+</div>
 
 > ⚠️ *Versions below the latest are marked as **Alpha**.*  
 > 🍰 *Delicious updates are planned for the future!*
@@ -83,12 +98,16 @@ This modpack includes **70–90 mods** and **4–7 resource packs**, greatly enh
 
 ## 📊 **Modpack Stats**
 
+<div align="center">
+
 | Statistic | Value |
 |:---------:|:-----:|
-| 📦 **Mods** | 70-90 |
-| 🎨 **Resource Packs** | 4-7 |
+| 📦 **Mods** | 70-100 |
+| 🎨 **Resource Packs** | 4-20 |
 | 🌐 **Languages** | Multi-language support |
 | 🎮 **Supported Server** | RomixerX |
+
+</div>
 
 ---
 
@@ -127,7 +146,7 @@ If you enjoy this modpack, please consider:
 
 <div align="center">
 
-**Made with ❤️ by the RomixerX Team**
+**Made with ❤️ by the Rompix**
 
 [⬆ Back to top](https://modrinth.com/modpack/romixerx)
 
